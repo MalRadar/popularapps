@@ -1,4 +1,5 @@
-1. category-overall.pdf 
+
+1.category-overall.pdf 
 It shows the distribution of all the 382,335 unique apps by category. It can be seen that the number of *Game* apps leads by a long way, occupying 22.84% of the total, followed by *Education* and *Utilities* with 9.28% and 7.18% respectively. The least popular category is *Magazines*, accounting for only 0.1% of the total, followed by *Weather* (0.42%) and *Navigation* (1.23%). This presents the category landscape of popular apps across the entire iOS App Market.
 
 2.category-percountry.pdf
