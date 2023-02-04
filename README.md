@@ -17,3 +17,7 @@ This type of files start with "ranking_". They record the chart of popular app
 This type of files start with "info_". They record the meta-data for each popular app that is included in the dataset, stored by geographical groups.
 
 We give examples of each kind of file in this repo (ranking-example.csv and info-example.csv).
+
+## Additional Findings
+
+In addition to the results presented in the paper, we also give some supplementary findings in this repo (see .pdf images).
