@@ -9,5 +9,5 @@ Understanding the favorability of categories across regions can serve as a guide
 2.rating-boxplot.pdf    
 It illustrates the boxplot of the distribution of user ratings for all popular apps by region, where regions are listed in descending order of average ratings. The red line indicates the median and the blue line denotes the mean. Overall, the average rating of popular apps in each region ranges from 4.0 to 4.6. The country with the highest average rating is Montserrat, with a mean rating about 4.55 and a median rating of 5.0, and the country with the lowest average rating is Turkey. The potential influential factors for this diversity have been articulated in the paper.
 
-3.xxx-withallregions.pdf 
+3.xxx-withallregions.pdf  
 Due to space limitation in the paper, we omit some regions from the horizontal coordinates in three figures. We present the corresponding distribution charts with all regions in this repo. Please see "appfrequency-boxplot-withallregions.pdf, category-percountry-withallregions.pdf, classification-withallregions.pdf".
